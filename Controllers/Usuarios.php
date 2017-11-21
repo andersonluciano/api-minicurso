@@ -36,7 +36,7 @@ class Usuarios {
         
     }
 
-    //Futuramente esses métodos podem virar uma Abstract...    
+    //Futuramente esses métodos podem virar uma Abstract    
     public function getBodyParams() {
         return $this->bodyParams;
     }
